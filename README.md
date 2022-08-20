@@ -1,2 +1,2 @@
 # Iris
-Iris Data Set Analysis
+Iris Data Analysis
